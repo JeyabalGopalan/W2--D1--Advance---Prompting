@@ -1,0 +1,1061 @@
+EC-BOX — TREE OF THOUGHT PROMPTS 1, 2 & 3
+================================================
+
+PROMPT 1
+--------
+TREE OF THOUGHT PROMPT 1
+
+EC-BOX — B2B POSTER TOPIC STRATEGY
+
+ROLE
+
+Act as a:
+
+- Senior B2B Content Strategist
+- Electrical Industry Marketing Strategist
+- Industrial Product Marketing Specialist
+- Electrical Enclosure Technical Content Strategist
+- SEO Strategist
+- Social Media Content Planner
+
+You are planning content for EC-BOX, an electrical enclosure B2B company.
+
+Website:
+https://www.ec-box.in
+
+TASK
+
+Using the RTCFR framework, develop a monthly poster-content strategy for EC-BOX.
+
+The final posters will be designed in:
+
+POSTER SIZE: 1:1 SQUARE RATIO
+
+Recommended design canvas:
+1080 × 1080 px
+
+Every content idea must therefore be suitable for a square social-media poster.
+
+TREE OF THOUGHT PROCESS
+
+Before producing the final topics, internally evaluate the content through these 3 strategic branches.
+
+BRANCH 1 — CUSTOMER PROBLEM
+
+Ask:
+
+1. What problem does the target B2B customer face?
+2. Why does that problem matter?
+3. What happens if the problem is ignored?
+4. What technical knowledge would help the customer?
+5. Can EC-BOX provide a relevant solution?
+
+Target customers:
+
+- Panel builders
+- OEM machine manufacturers
+- Automation companies
+- Electrical contractors
+- System integrators
+- Industrial engineers
+- Procurement managers
+- Plant managers
+- Electrical distributors
+- Machine builders
+- Manufacturing companies
+
+BRANCH 2 — CONTENT VALUE
+
+Evaluate each possible topic against:
+
+Educational Value
+Does the audience learn something useful?
+
+Technical Value
+Does the topic demonstrate electrical/enclosure expertise?
+
+Business Value
+Does it help the customer make a better purchasing or engineering decision?
+
+Visual Value
+Can the topic be communicated clearly in a 1:1 poster?
+
+Product Relevance
+Can the topic naturally connect to an EC-BOX product?
+
+Lead Potential
+Could the topic eventually generate an enquiry?
+
+Score each topic:
+1–5
+
+BRANCH 3 — CONTENT FUNNEL
+
+Classify each topic into:
+
+Awareness
+Goal: Educate and attract.
+
+Examples:
+- What is IP65?
+- What is IK10?
+- Why enclosure thickness matters
+- What is PU gasket?
+
+Consideration
+Goal: Help the customer compare/select.
+
+Examples:
+- IP55 vs IP65
+- Wall-mounted vs floor-standing
+- Standard vs customized
+- Enclosure sizing
+
+Decision
+Goal: Generate enquiries.
+
+Examples:
+- RFQ checklist
+- Customized enclosure
+- OEM enclosure requirements
+- Choosing an enclosure supplier
+
+CONTENT MIX
+
+Create a balanced monthly strategy:
+
+25% Technical Education
+20% Problem/Solution
+20% Product/Application
+15% Comparison
+10% Brand Trust
+10% Lead Generation
+
+Avoid creating a calendar that is mostly promotional.
+
+WEBSITE & BLOG RESEARCH
+
+Use:
+https://www.ec-box.in
+
+and the EC-BOX Blog section as the primary reference.
+
+Identify:
+
+1. Existing blog topics
+2. Product categories
+3. Applications
+4. Technical specifications
+5. Customer problems
+6. Product benefits
+7. Content gaps
+8. Topics suitable for conversion into posters
+
+Do NOT invent:
+
+- Products
+- Specifications
+- Certifications
+- Technical claims
+- Performance claims
+
+If something cannot be verified, mark:
+"Verification Required"
+
+TOPIC SCORING
+
+For every selected topic calculate:
+
+Customer Pain /5
+Educational Value /5
+Technical Value /5
+Product Relevance /5
+Visual Potential /5
+Lead Potential /5
+
+Calculate:
+Total Score /30
+
+Prioritize topics with the strongest combined score.
+
+REQUIRED OUTPUT
+
+Create a strategic topic table containing:
+
+1. Day
+2. Topic
+3. Content Pillar
+4. Customer Problem
+5. Audience
+6. Educational Value
+7. Technical Value
+8. Product Relevance
+9. Visual Potential
+10. Lead Potential
+11. Total Score
+12. Funnel Stage
+13. Suggested EC-BOX Product
+14. Blog Reference
+15. 1:1 Poster Potential
+16. Reason for Selection
+
+1:1 POSTER RULE
+
+Every selected topic must work inside a:
+
+1080 × 1080 px square canvas
+
+Therefore:
+
+- Keep heading short.
+- Keep content scannable.
+- Maximum 5–7 key points.
+- Avoid long paragraphs.
+- Use one primary visual.
+- Use supporting icons.
+- Maintain clear hierarchy.
+- Leave enough negative space.
+- Keep CTA visible.
+
+FINAL OBJECTIVE
+
+Do not simply generate popular topics.
+
+Select topics that create a strategic path:
+
+Customer Problem → Education → Product Relevance → Trust → Enquiry
+
+
+================================================
+PROMPT 2
+================================================
+
+TREE OF THOUGHT PROMPT 2
+
+EC-BOX — POSTER COPY & CREATIVE STRATEGY
+
+ROLE
+
+Act as a:
+
+B2B Industrial Creative Director + Electrical Technical Copywriter + Social Media Designer + Conversion Strategist
+
+for EC-BOX.
+
+Website:
+https://www.ec-box.in
+
+TASK
+
+Take the selected EC-BOX topics generated from Tree of Thought Prompt 1 and transform each topic into a complete poster concept.
+
+Do not create new topics unless:
+
+- The selected topic cannot be supported by EC-BOX references.
+- The topic is repetitive.
+- The topic contains an unsupported technical claim.
+
+If this happens, replace it with a closely related topic and clearly mark it:
+
+"Replacement Topic — Verification Required"
+
+REQUIRED POSTER SIZE
+
+1:1 SQUARE
+
+1080 × 1080 PX
+
+Every poster concept must be specifically designed for a 1080 × 1080 px square canvas.
+
+Do NOT create layouts intended for:
+- 16:9
+- 4:5
+- 9:16
+- Landscape banners
+
+TREE OF THOUGHT CREATIVE PROCESS
+
+For every selected topic, evaluate the following three creative paths internally.
+
+Do not expose private reasoning.
+Only provide the final creative decision and output.
+
+PATH A — INFORMATION
+
+Determine:
+
+1. What is the most important thing the audience needs to understand?
+2. What is the core technical message?
+3. Which information is essential?
+4. Which information can be removed?
+5. What should visually dominate the poster?
+6. Can the technical concept be understood within 5–7 points?
+
+The final poster should communicate one primary message, not multiple unrelated messages.
+
+PATH B — PROBLEM
+
+Determine:
+
+1. What customer problem does this topic address?
+2. What mistake commonly occurs?
+3. Why does the mistake matter?
+4. What business/engineering impact can it create?
+5. What should the customer do differently?
+
+Convert the problem into a concise visual story.
+
+Preferred structure:
+
+Problem → Risk → Correct Approach
+
+Do not exaggerate risks or create unsupported claims.
+
+PATH C — SOLUTION
+
+Determine:
+
+1. Which EC-BOX product is relevant?
+2. Which product feature is relevant?
+3. What customer problem does the feature address?
+4. What practical benefit does it provide?
+5. What application is it suitable for?
+6. What action should the customer take?
+
+Use:
+
+Feature → Benefit → Application → CTA
+
+Do not force a product into a topic where the connection is unnatural.
+
+CREATIVE DECISION
+
+After evaluating the three paths, select the strongest approach:
+
+INFORMATION-LED
+Use when the topic is primarily educational.
+
+Examples:
+- IP rating
+- IK rating
+- PU gasket
+- CRCA
+- Thickness
+
+PROBLEM-LED
+Use when the topic addresses a customer pain point.
+
+Examples:
+- Wrong enclosure size
+- Poor cable entry
+- Poor maintenance access
+- Outdoor exposure
+- Incorrect IP selection
+
+PRODUCT-LED
+Use when the EC-BOX product itself is the strongest visual story.
+
+Examples:
+- Form 1 enclosure
+- Terminal box
+- Outdoor double-door enclosure
+- Control desk
+
+COMPARISON-LED
+Use when the audience must make a selection.
+
+Examples:
+- IP55 vs IP65
+- Wall-mounted vs floor-standing
+- Standard vs customized
+- CRCA vs stainless steel
+
+CONVERSION-LED
+Use when the goal is enquiry generation.
+
+Examples:
+- RFQ checklist
+- Customized enclosure
+- OEM requirements
+- Choosing an enclosure supplier
+
+POSTER STRUCTURE
+
+Every poster must contain:
+
+1. HEADLINE
+
+Maximum:
+8–12 words
+
+The headline must:
+- Communicate the main value.
+- Create curiosity.
+- Be technically credible.
+- Be easy to scan.
+- Work visually in a square layout.
+
+2. HOOK
+
+Maximum:
+1–2 short sentences
+
+The hook should make the audience want to read the rest of the poster.
+
+Use:
+- Problem hooks
+- Question hooks
+- Technical hooks
+- Comparison hooks
+- Business hooks
+- Mistake hooks
+
+Avoid:
+- Clickbait
+- Fear-based exaggeration
+- Unsupported statistics
+
+3. MAIN VISUAL
+
+Recommend ONE primary visual.
+
+Possible visual types:
+- EC-BOX product
+- Technical cutaway
+- Product close-up
+- Comparison diagram
+- Before/after
+- Component close-up
+- Industrial application
+- Technical illustration
+- Process diagram
+
+The primary visual must support the headline.
+
+Do not recommend several unrelated images.
+
+4. KEY INFORMATION
+
+Maximum:
+5–7 KEY POINTS
+
+Each point must follow:
+
+ICON + SHORT TITLE + ONE-LINE EXPLANATION
+
+Avoid long paragraphs.
+
+Each point should be understandable within approximately 2–3 seconds.
+
+5. PRODUCT CONNECTION
+
+When relevant, provide:
+
+Relevant EC-BOX Product
+
+↓
+
+Product Feature
+
+↓
+
+Customer Benefit
+
+↓
+
+Application
+
+Use:
+
+FEATURE → BENEFIT → APPLICATION
+
+Only use product features that can be supported by EC-BOX references.
+
+If no verified product connection exists:
+
+Product Connection: Not Applicable
+
+Do not force a product into an educational topic.
+
+6. WHY CHOOSE EC-BOX
+
+Provide one specific reason.
+
+Avoid:
+- "Best quality"
+- "No.1 manufacturer"
+- "Premium quality"
+- "Best-in-class"
+- "Guaranteed performance"
+
+unless directly supported by an official EC-BOX source.
+
+Prefer application-focused statements such as:
+
+"Application-focused enclosure solutions for industrial panel requirements."
+
+or:
+
+"Customization options for application-specific enclosure requirements."
+
+7. CTA
+
+Create a professional B2B CTA.
+
+Examples:
+- "Discuss your enclosure requirement with EC-BOX."
+- "Need a customized enclosure? Talk to EC-BOX."
+- "Share your panel requirements with our team."
+- "Looking for the right enclosure for your application?"
+- "Request an enclosure solution for your project."
+
+The CTA must match the funnel stage.
+
+Awareness CTA:
+"Learn more about enclosure protection."
+
+Consideration CTA:
+"Discuss your enclosure requirements with EC-BOX."
+
+Decision CTA:
+"Send your enclosure requirement to EC-BOX."
+
+VISUAL HIERARCHY FOR 1:1
+
+Use this as the default composition:
+
+┌────────────────────────────┐
+│                            │
+│         HEADLINE           │
+│                            │
+│           HOOK             │
+│                            │
+│     ┌────────────────┐     │
+│     │                │     │
+│     │  MAIN VISUAL   │     │
+│     │                │     │
+│     └────────────────┘     │
+│                            │
+│  ● POINT   ● POINT         │
+│  ● POINT   ● POINT         │
+│                            │
+│    EC-BOX SOLUTION         │
+│                            │
+│          CTA               │
+│                            │
+└────────────────────────────┘
+
+The layout can change depending on the content type.
+
+1:1 LAYOUT PATTERNS
+
+TYPE A — PRODUCT HERO
+Best for:
+- Form 1
+- Terminal Box
+- Outdoor Double Door
+- Control Desk
+
+Structure:
+Headline → Product → Feature Callouts → Benefit → CTA
+
+TYPE B — TECHNICAL INFOGRAPHIC
+Best for:
+- IP rating
+- IK10
+- PU gasket
+- CRCA
+- Thickness
+
+Structure:
+Headline → Technical Visual → 5 Key Points → EC-BOX Application → CTA
+
+TYPE C — COMPARISON
+Best for:
+- IP55 vs IP65
+- Wall vs Floor
+- Standard vs Customized
+- CRCA vs Stainless Steel
+
+Structure:
+Headline → LEFT OPTION vs RIGHT OPTION → Key Differences → Recommendation → CTA
+
+TYPE D — PROBLEM/SOLUTION
+Best for:
+- Enclosure sizing
+- Cable entry
+- Maintenance access
+- Outdoor protection
+
+Structure:
+Problem → Risk → Correct Approach → EC-BOX Solution → CTA
+
+TYPE E — CHECKLIST
+Best for:
+- Enclosure selection
+- RFQ
+- Procurement
+- OEM requirements
+
+Structure:
+Headline → Checklist → Product Connection → CTA
+
+ICON STRATEGY
+
+Use icons that communicate technical meaning.
+
+| Concept | Recommended Icon |
+|---|---|
+| Protection | Shield |
+| IP Rating | Shield + Water Drop |
+| Water | Water Drop |
+| Dust | Dust Particles |
+| Impact | Hammer |
+| Material | Steel Sheet |
+| Thickness | Ruler |
+| Dimensions | Dimension Lines |
+| Mounting Plate | Grid |
+| Cable Entry | Cable Connector |
+| Maintenance | Wrench |
+| Heat | Thermometer / Fan |
+| OEM | Gear + Factory |
+| Customization | Settings |
+| Quality | Check Badge |
+| Testing | Laboratory |
+| Quotation | Clipboard |
+| Application | Factory |
+| Access | Open Door |
+| Expansion | Plus / Expand |
+
+Do not use icons simply for decoration.
+
+Every icon must communicate the meaning of its point.
+
+IMAGE STRATEGY
+
+Prioritize:
+
+1. EC-BOX PRODUCT IMAGE
+When the topic is product-related.
+
+2. TECHNICAL CLOSE-UP
+For:
+- Gasket
+- Mounting plate
+- Cable entry
+- Material
+- Door
+- Lock
+
+3. TECHNICAL ILLUSTRATION
+For:
+- IP
+- IK
+- Sizing
+- Layout
+- Comparison
+
+4. INDUSTRIAL APPLICATION IMAGE
+For:
+- OEM
+- PLC
+- VFD
+- Automation
+- Manufacturing
+
+Avoid generic stock images when an EC-BOX product or technical illustration would communicate the idea better.
+
+COPY RULES
+
+Poster copy must be:
+
+- Professional
+- B2B-focused
+- Technically meaningful
+- Concise
+- Easy to scan
+- Visually balanced
+- Suitable for LinkedIn
+- Suitable for Instagram
+- Suitable for a 1080 × 1080 poster
+
+Avoid:
+- Clickbait
+- Excessive emojis
+- Long paragraphs
+- Generic marketing phrases
+- Unsupported claims
+- Consumer-style language
+- Repeated wording
+- Overloaded technical explanations
+
+TEXT-DENSITY RULE
+
+For a 1080 × 1080 poster:
+
+HEADLINE
+8–12 words maximum.
+
+HOOK
+1–2 sentences.
+
+KEY POINTS
+5–7 maximum.
+
+EACH POINT
+Prefer:
+3–10 words title
++
+One short explanatory line
+
+CTA
+One short sentence.
+
+The poster should be understandable without reading a long paragraph.
+
+TECHNICAL ACCURACY
+
+Before writing any technical statement:
+
+1. Check the EC-BOX website/blog reference.
+2. Check whether the statement applies to the specific product.
+3. Avoid converting product-specific specifications into universal EC-BOX claims.
+4. Do not invent ratings, certifications, dimensions or materials.
+5. If verification is unavailable, write:
+"Verification Required"
+
+REQUIRED OUTPUT FOR EACH POSTER
+
+For every selected topic provide exactly:
+
+1. Topic
+2. Heading
+3. Hook
+4. Creative Direction
+5. Poster Objective
+6. Target Audience
+7. Main Poster Content
+8. Key Point 1
+9. Icon 1
+10. Key Point 2
+11. Icon 2
+12. Key Point 3
+13. Icon 3
+14. Key Point 4
+15. Icon 4
+16. Key Point 5
+17. Icon 5
+18. Customer Pain Point
+19. Solution
+20. Why Choose EC-BOX
+21. Product Suggestion
+22. Product Feature
+23. Customer Benefit
+24. Application
+25. CTA
+26. Visual Direction
+27. Image Suggestion
+28. Recommended Layout Type
+29. Poster Size
+30. Content Type
+31. Funnel Stage
+32. Source / Blog Reference
+33. Verification Status
+
+POSTER SIZE
+
+Every output must explicitly state:
+
+1:1 — 1080 × 1080 PX
+
+FINAL QUALITY CHECK
+
+Before finalizing each poster, verify:
+
+✓ One clear message.
+✓ Strong headline.
+✓ Scroll-stopping hook.
+✓ Maximum 5–7 key points.
+✓ Every key point has a meaningful icon.
+✓ One dominant visual.
+✓ Product connection is natural.
+✓ Feature → Benefit → Application is clear.
+✓ Customer problem is clear.
+✓ Solution is practical.
+✓ EC-BOX reason is specific.
+✓ CTA matches funnel stage.
+✓ No unsupported technical claims.
+✓ No invented specifications.
+✓ No excessive text.
+✓ Suitable for 1080 × 1080 px.
+✓ Suitable for LinkedIn and Instagram.
+✓ Visual hierarchy is clear.
+✓ Sufficient negative space is available.
+
+FINAL CREATIVE OBJECTIVE
+
+Do not create posters that merely look attractive.
+
+Create posters that communicate:
+
+PROBLEM → INSIGHT → SOLUTION → EC-BOX → ACTION
+
+The final poster should make the target B2B customer think:
+
+"This addresses a real problem in my electrical/industrial application."
+
+Then:
+
+Learn → Trust → Consider → Contact EC-BOX
+
+Final specification:
+1:1 — 1080 × 1080 PX
+
+
+================================================
+PROMPT 3
+================================================
+
+TREE OF THOUGHT PROMPT 3
+
+EC-BOX — FINAL B2B POSTER CALENDAR & EXCEL GENERATION
+
+ROLE
+
+Act as a:
+
+Senior B2B Content Strategist + Industrial Marketing Director + SEO Strategist + Conversion Specialist + Excel Content Calendar Architect
+
+for EC-BOX.
+
+TASK
+
+Using the previous RTCFR framework and the selected topic/creative strategy, create the final monthly EC-BOX B2B poster calendar in Excel format.
+
+Website:
+https://www.ec-box.in
+
+POSTER FORMAT
+
+Every poster must be designed for:
+
+1:1 SQUARE
+
+1080 × 1080 px
+
+This requirement applies to every single calendar row.
+
+Add a dedicated Excel column:
+
+Poster Size = 1:1 — 1080 × 1080 px
+
+TREE OF THOUGHT — FINAL VALIDATION
+
+Before finalizing each row, evaluate:
+
+THINK 1 — VALUE
+Does this poster teach something useful?
+If NO → improve the topic.
+
+THINK 2 — RELEVANCE
+Does this matter to an electrical B2B buyer?
+If NO → replace or reposition the topic.
+
+THINK 3 — PRODUCT CONNECTION
+Can the topic naturally connect to an EC-BOX product?
+If YES → include product.
+If NO → keep it educational instead of forcing a product promotion.
+
+THINK 4 — VISUALIZATION
+Can the information be understood within a 1080 × 1080 px square?
+If NO → simplify.
+
+THINK 5 — CONVERSION
+Does the poster create a logical next step?
+Examples:
+Learn → Compare → Evaluate → Contact EC-BOX
+
+If YES → add appropriate CTA.
+
+REQUIRED EXCEL COLUMNS
+
+Create the following columns:
+
+1. Day
+2. Date
+3. Content Pillar
+4. Topic
+5. Heading
+6. Hook
+7. Poster Objective
+8. Target Audience
+9. Poster Content
+10. Key Point 1
+11. Icon 1
+12. Key Point 2
+13. Icon 2
+14. Key Point 3
+15. Icon 3
+16. Key Point 4
+17. Icon 4
+18. Key Point 5
+19. Icon 5
+20. Why It Matters
+21. Customer Pain Point
+22. Solution
+23. Why Choose EC-BOX
+24. Product Suggestion
+25. Product Feature
+26. Application
+27. CTA
+28. Visual Direction
+29. Image Suggestion
+30. Poster Size
+31. Technical Keywords
+32. Primary SEO Keyword
+33. Secondary SEO Keywords
+34. Hashtags
+35. Content Type
+36. Priority
+37. Funnel Stage
+38. Blog Reference
+39. Topic Score
+40. Verification Status
+
+TOPIC SCORE
+
+Calculate:
+
+Customer Pain + Educational Value + Technical Value + Product Relevance + Visual Potential + Lead Potential
+
+Each:
+1–5
+
+Total:
+/30
+
+VERIFICATION STATUS
+
+Use only:
+
+VERIFIED
+Supported by EC-BOX website/blog/product information.
+
+PARTIALLY VERIFIED
+General topic is supported, but specific product/model details require checking.
+
+VERIFICATION REQUIRED
+The EC-BOX website does not provide enough information to make the claim confidently.
+
+Never convert "Verification Required" into a factual product claim.
+
+EXCEL SHEETS
+
+Create these sheets:
+
+SHEET 1 — Monthly Calendar
+Complete monthly poster calendar.
+
+SHEET 2 — Content Strategy
+Content pillars, percentages, funnel stages and objectives.
+
+SHEET 3 — Product Mapping
+Product → Features → Applications → Poster Topics.
+
+SHEET 4 — Poster Design Guide
+Include:
+- 1:1 size
+- Recommended hierarchy
+- Icon strategy
+- Image direction
+- Layout patterns
+- CTA placement
+- Text-density rules
+
+SHEET 5 — SEO Keyword Bank
+Primary and secondary keywords.
+
+SHEET 6 — Blog References
+EC-BOX blog/reference topic → poster topic mapping.
+
+SHEET 7 — Verification
+List:
+- Claim
+- Source
+- Product
+- Verification status
+- Notes
+
+EXCEL DESIGN
+
+The Excel file must:
+
+- Freeze header row.
+- Enable filters.
+- Wrap text.
+- Use readable column widths.
+- Use professional formatting.
+- Keep each poster concept in one row.
+- Avoid unnecessary merged cells.
+- Highlight High Priority topics.
+- Highlight Verification Required rows.
+- Make the file easy for a designer and marketing team to use.
+
+CONTENT QUALITY CONTROL
+
+Before delivering the Excel file verify:
+
+✓ Every day has a unique topic.
+✓ Content pillars are balanced.
+✓ No repetitive poster concepts.
+✓ Every poster has a strong hook.
+✓ Every poster has a clear heading.
+✓ Every poster contains useful information.
+✓ Maximum 5–7 major points.
+✓ Icons are meaningful.
+✓ Product suggestions are relevant.
+✓ Product claims are verified.
+✓ Customer pain point is clear.
+✓ Solution is practical.
+✓ EC-BOX connection is natural.
+✓ CTA is B2B-focused.
+✓ SEO keywords are relevant.
+✓ Blog references are accurate.
+✓ No invented specifications.
+✓ No exaggerated claims.
+✓ Every poster is suitable for 1:1 — 1080 × 1080 px.
+✓ Content is suitable for LinkedIn and Instagram.
+
+FINAL STRATEGIC FLOW
+
+The complete calendar should follow:
+
+PROBLEM
+↓
+AWARENESS
+↓
+EDUCATION
+↓
+TECHNICAL UNDERSTANDING
+↓
+PRODUCT / APPLICATION
+↓
+COMPARISON
+↓
+TRUST
+↓
+DECISION
+↓
+LEAD GENERATION
+
+FINAL GOAL
+
+Do not create a simple social-media calendar.
+
+Create a strategic B2B content system where every square poster has a purpose:
+
+Attract → Educate → Build Trust → Demonstrate Expertise → Connect Product → Generate Enquiry
+
+Final poster specification:
+
+1:1 — 1080 × 1080 PX

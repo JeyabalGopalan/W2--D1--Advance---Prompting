@@ -1,0 +1,1630 @@
+EC-BOX — 30-DAY SEQUENTIAL CHAINING RTCFR PROMPTS
+Poster Format: EXACT 1:1 SQUARE — 1080 × 1080 px
+
+MASTER CHAINING INSTRUCTION
+
+You are executing a 30-day sequential B2B content campaign for EC-BOX.
+
+IMPORTANT:
+This is NOT 30 independent poster ideas.
+
+Each day's output must be influenced by:
+1. The original EC-BOX RTCFR strategy.
+2. EC-BOX website/blog/product references.
+3. The previous day's topic and content.
+4. The overall monthly content journey.
+5. The target B2B audience.
+6. The visual language established in previous posters.
+
+SEQUENTIAL RULE:
+
+Day N must review the output from Day N-1 before creating Day N.
+
+Use the previous day's output to:
+- Avoid repeating the same topic.
+- Avoid repeating the same hook style unnecessarily.
+- Avoid repeating the same CTA.
+- Avoid repeating the same visual composition.
+- Identify a logical next topic.
+- Build deeper technical understanding.
+- Connect the previous topic to the next customer problem.
+- Progress the audience through Awareness → Consideration → Decision.
+
+Do NOT copy the previous day's content.
+
+Instead:
+PREVIOUS TOPIC → IDENTIFY NEXT LOGICAL QUESTION → CREATE NEXT POSTER.
+
+Example:
+
+Day 1:
+"What is IP Rating?"
+
+Day 2:
+"If IP protects against ingress, what protects against impact?"
+
+Day 3:
+"Now that we understand IP + IK, how do we select enclosure size?"
+
+Day 4:
+"Once size is selected, what enclosure construction should we consider?"
+
+This creates a content chain rather than random posts.
+
+POSTER SIZE:
+
+Every poster MUST be designed for:
+
+1:1 SQUARE FORMAT
+
+Recommended canvas:
+1080 × 1080 px
+
+Do not use:
+4:5
+16:9
+9:16
+Landscape
+
+All visual directions must be designed specifically for a 1:1 square composition.
+
+
+============================================================
+DAY 1 — IP RATING
+============================================================
+
+R — ROLE
+
+Act as a Senior B2B Electrical Content Strategist and Industrial Product Marketing Specialist for EC-BOX.
+
+T — TASK
+
+Create the first poster of the 30-day EC-BOX sequential content campaign.
+
+Topic:
+IP Rating — Electrical Enclosure Protection
+
+C — CONTEXT
+
+Target audience:
+- Panel builders
+- OEMs
+- Electrical engineers
+- Automation companies
+- Procurement teams
+- Industrial buyers
+
+Explain why IP rating matters when selecting an electrical enclosure.
+
+Use EC-BOX website/blog references as the primary source.
+
+F — FORMAT
+
+Create a professional 1:1 square poster concept.
+
+Canvas:
+1080 × 1080 px
+
+Provide:
+- Heading
+- Hook
+- 5 key points
+- Icon for every key point
+- Customer problem
+- Solution
+- Why choose EC-BOX
+- Relevant EC-BOX product
+- Application
+- CTA
+- Visual direction
+- Image/product suggestion
+- Primary SEO keyword
+- Secondary keywords
+- Hashtags
+
+R — RESPONSE
+
+Return the content in this structure:
+
+TOPIC:
+HEADING:
+HOOK:
+
+POSTER CONTENT:
+1.
+2.
+3.
+4.
+5.
+
+ICON RECOMMENDATIONS:
+
+CUSTOMER PAIN POINT:
+
+SOLUTION:
+
+WHY EC-BOX:
+
+PRODUCT:
+
+APPLICATION:
+
+CTA:
+
+VISUAL DIRECTION:
+Create a 1:1 square composition with the enclosure/product as the main visual.
+
+PREVIOUS CONTENT:
+None — this is Day 1.
+
+NEXT-DAY BRIDGE:
+End with a natural technical question that can lead into Day 2.
+
+
+============================================================
+DAY 2 — IP VS IK
+============================================================
+
+R — ROLE
+
+Act as a Senior B2B Electrical Enclosure Content Strategist.
+
+T — TASK
+
+Create Day 2 using Day 1 as the content foundation.
+
+DAY 1 TOPIC:
+IP Rating — Electrical Enclosure Protection
+
+DAY 1 LESSON:
+IP explains ingress protection.
+
+Now identify the next logical question:
+
+"If IP protects against ingress, what protects against mechanical impact?"
+
+Create a poster explaining IP vs IK.
+
+C — CONTEXT
+
+Use EC-BOX references for IP and IK.
+
+Target:
+Panel builders, OEMs, engineers and industrial buyers.
+
+F — FORMAT
+
+1:1 square poster
+1080 × 1080 px.
+
+Create:
+- Heading
+- Hook
+- IP explanation
+- IK explanation
+- Comparison
+- 5 key points
+- Icons
+- Pain point
+- Solution
+- EC-BOX relevance
+- Product
+- Application
+- CTA
+- Visual direction
+- SEO keywords
+
+R — RESPONSE
+
+Make Day 2 clearly connected to Day 1 without repeating Day 1.
+
+Use a visual:
+IP → Shield/Water
+IK → Impact/Hammer
+
+NEXT-DAY BRIDGE:
+End by introducing the importance of choosing the correct enclosure size.
+
+
+============================================================
+DAY 3 — ENCLOSURE SIZING
+============================================================
+
+R — ROLE
+
+Act as an Industrial Electrical Enclosure Planning Specialist.
+
+T — TASK
+
+Create Day 3 based on:
+
+DAY 1:
+IP protection
+
+DAY 2:
+IP vs IK
+
+NEXT LOGICAL QUESTION:
+
+"Once protection requirements are understood, how do you choose the correct enclosure size?"
+
+Create:
+
+"Is Your Electrical Enclosure Too Small?"
+
+C — CONTEXT
+
+Target:
+Panel builders, OEM machine builders and automation engineers.
+
+Explain:
+- Height
+- Width
+- Depth
+- Component space
+- Wiring
+- Maintenance access
+- Future requirements
+
+F — FORMAT
+
+1080 × 1080 px.
+
+Maximum 5–7 points.
+
+Every point requires an appropriate icon.
+
+R — RESPONSE
+
+Include:
+Heading
+Hook
+Poster copy
+5 key points
+Icons
+Pain point
+Solution
+Why EC-BOX
+Product
+Application
+CTA
+Visual layout
+SEO
+
+NEXT-DAY BRIDGE:
+Lead naturally toward enclosure construction/material.
+
+
+============================================================
+DAY 4 — MATERIAL & CRCA
+============================================================
+
+R — ROLE
+
+Act as an Electrical Enclosure Material and Manufacturing Marketing Specialist.
+
+T — TASK
+
+Continue from Day 3.
+
+DAY 3:
+Enclosure sizing
+
+NEXT QUESTION:
+
+"After choosing the right size, what should the enclosure be made from?"
+
+Topic:
+CRCA / enclosure material.
+
+C — CONTEXT
+
+Use EC-BOX references for CRCA construction.
+
+Explain:
+- Material selection
+- Structural considerations
+- Surface finish
+- Application suitability
+
+Do not invent unsupported specifications.
+
+F — FORMAT
+
+1:1
+1080 × 1080 px.
+
+Create a technical but visually simple poster.
+
+R — RESPONSE
+
+Include:
+Heading
+Hook
+5 technical points
+Icons
+Customer problem
+Solution
+EC-BOX advantage
+Product
+Application
+CTA
+Visual direction
+
+NEXT-DAY BRIDGE:
+Lead toward enclosure thickness.
+
+
+============================================================
+DAY 5 — ENCLOSURE THICKNESS
+============================================================
+
+R — ROLE
+
+Act as an Industrial Enclosure Engineering Content Strategist.
+
+T — TASK
+
+Continue from:
+
+DAY 4:
+Material selection / CRCA.
+
+NEXT QUESTION:
+
+"Does enclosure thickness matter?"
+
+Create an educational poster about enclosure thickness.
+
+C — CONTEXT
+
+Explain that thickness is product/application-specific.
+
+Do NOT generalize one thickness across all EC-BOX products.
+
+F — FORMAT
+
+1:1 square
+1080 × 1080.
+
+Use a visual cross-section.
+
+R — RESPONSE
+
+Include:
+Heading
+Hook
+5 technical points
+Icons
+Pain point
+Solution
+Product
+EC-BOX relevance
+CTA
+Visual direction
+SEO
+
+NEXT-DAY BRIDGE:
+Lead toward PU gasket and sealing.
+
+
+============================================================
+DAY 6 — PU GASKET
+============================================================
+
+R — ROLE
+
+Act as an Electrical Enclosure Protection Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 5:
+Enclosure construction/thickness.
+
+NEXT QUESTION:
+
+"Even a strong enclosure needs proper sealing. What role does the gasket play?"
+
+Topic:
+PU Gasket.
+
+C — CONTEXT
+
+Use EC-BOX blog/product references.
+
+Explain:
+- Sealing
+- Dust protection
+- Water ingress
+- Door sealing
+- Long-term enclosure protection
+
+F — FORMAT
+
+1:1 / 1080 × 1080.
+
+Visual:
+Macro gasket detail + enclosure.
+
+R — RESPONSE
+
+5 points + 5 meaningful icons.
+
+CTA:
+B2B enquiry.
+
+NEXT-DAY BRIDGE:
+Lead toward mounting plates.
+
+
+============================================================
+DAY 7 — MOUNTING PLATE
+============================================================
+
+R — ROLE
+
+Act as a Control Panel Design Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 6:
+Gasket protects the enclosure boundary.
+
+NEXT QUESTION:
+
+"What happens inside the enclosure?"
+
+Topic:
+Mounting Plate.
+
+C — CONTEXT
+
+Explain:
+- Component mounting
+- Layout
+- Organization
+- Accessibility
+- Depth adjustment where supported
+
+Use EC-BOX references.
+
+F — FORMAT
+
+1:1 square.
+
+Visual:
+Exploded enclosure:
+Door → Body → Mounting Plate → Components.
+
+R — RESPONSE
+
+Create complete poster content.
+
+NEXT-DAY BRIDGE:
+Lead toward cable entry/gland plates.
+
+
+============================================================
+DAY 8 — CABLE ENTRY / GLAND PLATE
+============================================================
+
+R — ROLE
+
+Act as an Industrial Panel Wiring Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 7:
+Mounting plate and internal layout.
+
+NEXT QUESTION:
+
+"Once components are mounted, how should cables enter the enclosure?"
+
+Topic:
+Cable Entry & Gland Plate.
+
+C — CONTEXT
+
+Explain:
+- Cable entry planning
+- Gland plate
+- Routing
+- Sealing
+- Serviceability
+
+F — FORMAT
+
+1:1 / 1080 × 1080.
+
+Visual:
+Bottom of enclosure + cable arrows.
+
+R — RESPONSE
+
+Provide:
+Heading
+Hook
+5 points
+Icons
+Pain point
+Solution
+EC-BOX product
+Application
+CTA
+Visual direction
+SEO
+
+NEXT-DAY BRIDGE:
+Lead into wall-mounted vs floor-standing selection.
+
+
+============================================================
+DAY 9 — WALL-MOUNTED VS FLOOR-STANDING
+============================================================
+
+R — ROLE
+
+Act as an Industrial Enclosure Selection Consultant.
+
+T — TASK
+
+Continue from:
+
+DAY 8:
+Cable entry and internal layout.
+
+NEXT QUESTION:
+
+"Which enclosure configuration is right for your application?"
+
+Topic:
+Wall-Mounted vs Floor-Standing.
+
+C — CONTEXT
+
+Compare:
+- Space
+- Panel size
+- Accessibility
+- Application
+- Installation
+
+F — FORMAT
+
+1:1 square.
+
+Use:
+LEFT = WALL-MOUNTED
+RIGHT = FLOOR-STANDING
+
+R — RESPONSE
+
+Create a professional comparison poster.
+
+NEXT-DAY BRIDGE:
+Lead into terminal boxes.
+
+
+============================================================
+DAY 10 — TERMINAL BOX
+============================================================
+
+R — ROLE
+
+Act as a B2B Electrical Product Marketing Specialist.
+
+T — TASK
+
+Continue from Day 9.
+
+Topic:
+Terminal Boxes.
+
+Question:
+"When you don't need a full panel enclosure, what protects critical electrical connections?"
+
+C — CONTEXT
+
+Use EC-BOX terminal-box references.
+
+Focus on:
+- Connections
+- Protection
+- Cable entry
+- Industrial applications
+- Customization where supported
+
+F — FORMAT
+
+1:1.
+
+R — RESPONSE
+
+Create complete poster.
+
+Visual:
+Terminal box hero product.
+
+NEXT-DAY BRIDGE:
+Move from product protection toward manufacturing quality.
+
+
+============================================================
+DAY 11 — POWDER COATING
+============================================================
+
+R — ROLE
+
+Act as an Industrial Manufacturing Content Strategist.
+
+T — TASK
+
+Continue from:
+
+DAY 10:
+Terminal box/product protection.
+
+NEXT QUESTION:
+
+"How does the enclosure get its protective finish?"
+
+Topic:
+Powder Coating.
+
+C — CONTEXT
+
+Use EC-BOX powder-coating blog.
+
+Show:
+1. Surface preparation
+2. Pretreatment
+3. Powder application
+4. Curing
+5. Inspection
+
+F — FORMAT
+
+1:1 square infographic.
+
+R — RESPONSE
+
+Use a 5-step process visual.
+
+NEXT-DAY BRIDGE:
+Move from finish to outdoor/environmental protection.
+
+
+============================================================
+DAY 12 — OUTDOOR PROTECTION
+============================================================
+
+R — ROLE
+
+Act as an Industrial Outdoor Enclosure Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 11:
+Surface finish.
+
+NEXT QUESTION:
+
+"What changes when the enclosure is installed outdoors?"
+
+Topic:
+Outdoor enclosure protection.
+
+C — CONTEXT
+
+Discuss:
+- Rain
+- Moisture
+- Dust
+- Sun/environment
+- IP requirement
+- Canopy where referenced
+
+F — FORMAT
+
+1:1 square.
+
+Visual:
+Outdoor enclosure + rain/sun/dust.
+
+R — RESPONSE
+
+Create complete poster.
+
+NEXT-DAY BRIDGE:
+Lead toward EC-BOX outdoor double-door enclosure.
+
+
+============================================================
+DAY 13 — OUTDOOR DOUBLE DOOR
+============================================================
+
+R — ROLE
+
+Act as an Industrial Product Marketing Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 12:
+Outdoor protection.
+
+Now introduce:
+EC-BOX Outdoor Double Door Electrical Enclosure.
+
+C — CONTEXT
+
+Focus on:
+- Outdoor application
+- Double-door access
+- Maintenance
+- Protection
+- Industrial application
+
+Do not invent specifications.
+
+F — FORMAT
+
+1:1.
+
+Product must be the hero.
+
+R — RESPONSE
+
+Create:
+Heading
+Hook
+5 product benefits
+Icons
+Pain point
+Solution
+Why EC-BOX
+CTA
+Visual direction
+
+NEXT-DAY BRIDGE:
+Move from product selection to complete enclosure-selection checklist.
+
+
+============================================================
+DAY 14 — ENCLOSURE SELECTION CHECKLIST
+============================================================
+
+R — ROLE
+
+Act as a B2B Procurement and Enclosure Selection Strategist.
+
+T — TASK
+
+Use Days 1–13 as knowledge accumulated so far.
+
+Create:
+
+"5 Checks Before You Order an Electrical Enclosure"
+
+C — CONTEXT
+
+Checklist should cover:
+
+1. Dimensions
+2. Environment
+3. IP/IK
+4. Internal layout
+5. Modifications/accessories
+
+F — FORMAT
+
+1:1 square.
+
+R — RESPONSE
+
+Create a highly saveable/checklist-style poster.
+
+Use five large icons.
+
+NEXT-DAY BRIDGE:
+Go deeper into IP55 vs IP65.
+
+
+============================================================
+DAY 15 — IP55 VS IP65
+============================================================
+
+R — ROLE
+
+Act as an Electrical Protection Educator.
+
+T — TASK
+
+Continue from the Day 14 enclosure-selection checklist.
+
+Topic:
+IP55 vs IP65.
+
+C — CONTEXT
+
+Use EC-BOX published guidance.
+
+Explain practical differences without claiming that "higher is always better."
+
+F — FORMAT
+
+1:1.
+
+Visual:
+IP55 VS IP65.
+
+R — RESPONSE
+
+Create:
+Comparison
+Applications
+Decision guide
+Icons
+CTA
+
+NEXT-DAY BRIDGE:
+Move into PLC panel applications.
+
+
+============================================================
+DAY 16 — PLC PANEL
+============================================================
+
+R — ROLE
+
+Act as an Industrial Automation Content Strategist.
+
+T — TASK
+
+Continue from:
+
+DAY 15:
+Choosing protection.
+
+Topic:
+PLC Panel Enclosure.
+
+C — CONTEXT
+
+Show:
+PLC
+I/O
+Mounting
+Cable routing
+Protection
+Maintenance
+
+F — FORMAT
+
+1:1 square.
+
+Visual:
+PLC components inside EC-BOX enclosure.
+
+R — RESPONSE
+
+Create application-focused poster.
+
+NEXT-DAY BRIDGE:
+Move toward VFD panels.
+
+
+============================================================
+DAY 17 — VFD PANEL
+============================================================
+
+R — ROLE
+
+Act as an Industrial Drive and Panel Application Specialist.
+
+T — TASK
+
+Continue from Day 16 PLC panel.
+
+Topic:
+VFD Panel Enclosure.
+
+C — CONTEXT
+
+Discuss:
+- Drive components
+- Cable routing
+- Space
+- Protection
+- Thermal planning
+
+Avoid unsupported performance claims.
+
+F — FORMAT
+
+1:1.
+
+R — RESPONSE
+
+Create complete B2B poster.
+
+NEXT-DAY BRIDGE:
+Lead into maintenance/serviceability.
+
+
+============================================================
+DAY 18 — MAINTENANCE ACCESS
+============================================================
+
+R — ROLE
+
+Act as a Maintenance-Oriented Panel Design Specialist.
+
+T — TASK
+
+Continue from:
+
+DAY 17:
+VFD/panel layout.
+
+Question:
+
+"Can your technician easily access everything?"
+
+Topic:
+Maintenance Access.
+
+C — CONTEXT
+
+Cover:
+- Door access
+- Component arrangement
+- Wiring
+- Mounting
+- Service space
+
+F — FORMAT
+
+1:1.
+
+Visual:
+Technician working on open enclosure.
+
+R — RESPONSE
+
+Create complete poster.
+
+NEXT-DAY BRIDGE:
+Lead into engineering considerations such as thickness/construction.
+
+
+============================================================
+DAY 19 — ENGINEERING CONSTRUCTION
+============================================================
+
+R — ROLE
+
+Act as an Electrical Enclosure Engineering Specialist.
+
+T — TASK
+
+Create a deeper technical poster following Days 1–18.
+
+Topic:
+"How Enclosure Construction Affects Industrial Applications"
+
+C — CONTEXT
+
+Connect:
+Material
+Thickness
+Mounting plate
+Gasket
+Finish
+Protection
+
+F — FORMAT
+
+1:1 technical infographic.
+
+R — RESPONSE
+
+Create a five-layer enclosure construction visual.
+
+NEXT-DAY BRIDGE:
+Move into manufacturing quality.
+
+
+============================================================
+DAY 20 — MANUFACTURING QUALITY
+============================================================
+
+R — ROLE
+
+Act as an Industrial Manufacturing Brand Strategist.
+
+T — TASK
+
+Continue from Day 19.
+
+Topic:
+"Quality Is Built Into the Enclosure"
+
+C — CONTEXT
+
+Show:
+Material → Fabrication → Finishing → Inspection → Finished Product.
+
+F — FORMAT
+
+1:1.
+
+R — RESPONSE
+
+Create a brand-trust poster.
+
+Do not make unsupported claims.
+
+NEXT-DAY BRIDGE:
+Move into customization.
+
+
+============================================================
+DAY 21 — STANDARD VS CUSTOMIZED
+============================================================
+
+R — ROLE
+
+Act as an OEM Enclosure Solutions Strategist.
+
+T — TASK
+
+Continue from Day 20.
+
+Topic:
+Standard vs Customized Enclosure.
+
+C — CONTEXT
+
+Explain when customization may be required:
+- Dimensions
+- Cutouts
+- Doors
+- Locking
+- Colour/finish
+- Application
+
+F — FORMAT
+
+1:1 comparison poster.
+
+R — RESPONSE
+
+LEFT:
+STANDARD
+
+RIGHT:
+CUSTOMIZED
+
+NEXT-DAY BRIDGE:
+Lead directly into OEM machine-builder requirements.
+
+
+============================================================
+DAY 22 — OEM MACHINE BUILDERS
+============================================================
+
+R — ROLE
+
+Act as an OEM Industrial Equipment Marketing Strategist.
+
+T — TASK
+
+Continue from Day 21.
+
+Topic:
+"OEM Machine? Plan the Enclosure Early."
+
+C — CONTEXT
+
+Use EC-BOX OEM references.
+
+Show:
+
+Application
+↓
+Design
+↓
+Prototype
+↓
+Testing
+↓
+Production
+
+F — FORMAT
+
+1:1 square workflow poster.
+
+R — RESPONSE
+
+Create complete poster.
+
+NEXT-DAY BRIDGE:
+Move from single enclosure/OEM to larger panel architecture.
+
+
+============================================================
+DAY 23 — FORM 2 TO FORM 4B
+============================================================
+
+R — ROLE
+
+Act as an Industrial Panel Architecture Specialist.
+
+T — TASK
+
+Continue from Day 22.
+
+Topic:
+FORM 2 → FORM 4B.
+
+C — CONTEXT
+
+Explain at a high level:
+- Compartmentalization
+- Busbar chamber
+- Cable chamber
+- Feeder access
+- Expansion/baying
+
+Use EC-BOX references.
+
+F — FORMAT
+
+1:1 technical infographic.
+
+R — RESPONSE
+
+Create a simplified architecture diagram.
+
+NEXT-DAY BRIDGE:
+Move toward control-desk/operator applications.
+
+
+============================================================
+DAY 24 — CONTROL DESK
+============================================================
+
+R — ROLE
+
+Act as an Industrial Automation Interface Marketing Specialist.
+
+T — TASK
+
+Continue from Day 23.
+
+Topic:
+EC-BOX Control Desk.
+
+C — CONTEXT
+
+Focus on:
+- Operator access
+- Modular design
+- Rear bay
+- Extensibility
+- Machine control applications
+
+F — FORMAT
+
+1:1 product poster.
+
+R — RESPONSE
+
+Product should dominate the composition.
+
+NEXT-DAY BRIDGE:
+Move toward heat management.
+
+
+============================================================
+DAY 25 — HEAT MANAGEMENT
+============================================================
+
+R — ROLE
+
+Act as an Industrial Panel Thermal Planning Specialist.
+
+T — TASK
+
+Continue from Day 24.
+
+Topic:
+"Enclosure Selection Should Consider Heat."
+
+C — CONTEXT
+
+Discuss:
+- Heat-generating components
+- Internal space
+- Ventilation
+- Fans/louvers where applicable
+- Protection requirements
+
+Do not claim a specific enclosure cooling performance without source support.
+
+F — FORMAT
+
+1:1 technical poster.
+
+Visual:
+Heat arrows + enclosure + fan/louver concept.
+
+NEXT-DAY BRIDGE:
+Lead toward application-specific enclosure solutions.
+
+
+============================================================
+DAY 26 — APPLICATION SUPPORT
+============================================================
+
+R — ROLE
+
+Act as a B2B Industrial Solution Marketing Strategist.
+
+T — TASK
+
+Continue from Day 25.
+
+Topic:
+
+"Redefined for Your Application"
+
+C — CONTEXT
+
+Position EC-BOX around:
+
+Application
+→ Requirement
+→ Enclosure
+→ Customization
+→ Solution
+
+Use website-supported messaging.
+
+F — FORMAT
+
+1:1 brand poster.
+
+R — RESPONSE
+
+Create a premium brand-authority poster.
+
+NEXT-DAY BRIDGE:
+Move toward lead generation/RFQ.
+
+
+============================================================
+DAY 27 — RFQ CHECKLIST
+============================================================
+
+R — ROLE
+
+Act as a B2B Industrial Lead Generation Strategist.
+
+T — TASK
+
+Use the knowledge accumulated across Days 1–26.
+
+Create:
+
+"Want an Accurate Enclosure Quote? Share These Details."
+
+C — CONTEXT
+
+Use EC-BOX enquiry guidance.
+
+Include:
+
+1. Location
+2. H × W × D
+3. IP/IK
+4. Internal components/layout
+5. Cutouts/modifications
+6. Quantity/delivery requirement
+
+F — FORMAT
+
+1:1 square.
+
+This should be highly actionable.
+
+R — RESPONSE
+
+Create a lead-generation checklist.
+
+CTA:
+"Send Your Enclosure Requirement to EC-BOX."
+
+NEXT-DAY BRIDGE:
+Move toward industries/applications.
+
+
+============================================================
+DAY 28 — INDUSTRIES & APPLICATIONS
+============================================================
+
+R — ROLE
+
+Act as an Industrial B2B Marketing Strategist.
+
+T — TASK
+
+Continue from Day 27.
+
+Topic:
+
+"Where Are Industrial Enclosures Used?"
+
+C — CONTEXT
+
+Use EC-BOX application references.
+
+Include relevant sectors such as:
+- Manufacturing
+- Automation
+- Power distribution
+- OEM
+- Industrial machinery
+- Process applications where supported
+
+F — FORMAT
+
+1:1 industry-wheel infographic.
+
+R — RESPONSE
+
+Central EC-BOX enclosure.
+
+Surround with industry icons.
+
+NEXT-DAY BRIDGE:
+Move toward future expansion and long-term panel planning.
+
+
+============================================================
+DAY 29 — FUTURE EXPANSION
+============================================================
+
+R — ROLE
+
+Act as an Industrial Panel Planning Strategist.
+
+T — TASK
+
+Continue from Day 28.
+
+Topic:
+
+"Leave Room for What Comes Next."
+
+C — CONTEXT
+
+Explain why engineers should consider:
+
+- Future components
+- Wiring
+- Maintenance
+- Expansion
+- Modular architecture
+
+Use EC-BOX Form 1/Form 2–4B references where appropriate.
+
+F — FORMAT
+
+1:1.
+
+Visual:
+CURRENT PANEL → FUTURE PANEL.
+
+R — RESPONSE
+
+Create practical engineering checklist.
+
+NEXT-DAY BRIDGE:
+Lead to final purchasing decision.
+
+
+============================================================
+DAY 30 — FINAL BUYER CHECKLIST
+============================================================
+
+R — ROLE
+
+Act as a Senior B2B Electrical Procurement and Industrial Marketing Strategist.
+
+T — TASK
+
+This is the final poster in the 30-day EC-BOX sequential campaign.
+
+Review the entire chain:
+
+Day 1 — IP
+Day 2 — IK
+Day 3 — Sizing
+Day 4 — Material
+Day 5 — Thickness
+Day 6 — Gasket
+Day 7 — Mounting
+Day 8 — Cable Entry
+Day 9 — Enclosure Type
+Day 10 — Terminal Box
+Day 11 — Powder Coating
+Day 12 — Outdoor Protection
+Day 13 — Double Door
+Day 14 — Selection Checklist
+Day 15 — IP55 vs IP65
+Day 16 — PLC
+Day 17 — VFD
+Day 18 — Maintenance
+Day 19 — Construction
+Day 20 — Manufacturing
+Day 21 — Customization
+Day 22 — OEM
+Day 23 — Form 2–4B
+Day 24 — Control Desk
+Day 25 — Heat
+Day 26 — Application Support
+Day 27 — RFQ
+Day 28 — Industries
+Day 29 — Future Expansion
+
+Now create the final decision-stage poster:
+
+"Before You Finalize Your Enclosure Supplier"
+
+C — CONTEXT
+
+The poster should summarize the buyer's decision criteria:
+
+1. Protection
+2. Dimensions
+3. Material/construction
+4. Application
+5. Customization
+6. Supplier capability/support
+
+Do not turn this into a generic advertisement.
+
+Make it a useful B2B buyer checklist.
+
+F — FORMAT
+
+1:1 square
+1080 × 1080 px
+
+Use a premium industrial layout.
+
+Maximum 6 major points.
+
+Every point must have an icon.
+
+R — RESPONSE
+
+Include:
+
+HEADING
+HOOK
+BUYER CHECKLIST
+ICONS
+CUSTOMER PROBLEM
+SOLUTION
+WHY EC-BOX
+PRODUCT
+APPLICATION
+CTA
+VISUAL DIRECTION
+SEO KEYWORDS
+HASHTAGS
+
+FINAL CTA:
+
+"Have an Enclosure Requirement? Talk to EC-BOX."
+
+FINAL VISUAL:
+
+EC-BOX enclosure/product family at the bottom.
+
+Use a strong B2B enquiry-focused footer.
+
+CAMPAIGN CLOSING:
+
+The poster should feel like the conclusion of a 30-day educational journey—not just another promotional post.
+
+
+============================================================
+GLOBAL 1:1 POSTER RULE
+============================================================
+
+Add this requirement to every generated poster:
+
+"Create the poster in an exact 1:1 square aspect ratio, 1080 × 1080 px. Do not use portrait or landscape composition. Keep all important text, product details, icons and CTA safely inside the square."
+
+
+============================================================
+SEQUENTIAL CHAIN LOGIC
+============================================================
+
+Day 1 — Protection
+↓
+Day 2 — Impact protection
+↓
+Day 3 — Size
+↓
+Day 4 — Material
+↓
+Day 5 — Thickness
+↓
+Day 6 — Sealing
+↓
+Day 7 — Internal mounting
+↓
+Day 8 — Cable entry
+↓
+Day 9 — Enclosure type
+↓
+Day 10 — Terminal box
+↓
+Day 11 — Manufacturing finish
+↓
+Day 12 — Outdoor environment
+↓
+Day 13 — Outdoor product
+↓
+Day 14 — Selection checklist
+↓
+Day 15 — IP55 vs IP65
+↓
+Day 16 — PLC application
+↓
+Day 17 — VFD application
+↓
+Day 18 — Maintenance
+↓
+Day 19–20 — Engineering + Quality
+↓
+Day 21–22 — Customization + OEM
+↓
+Day 23–25 — Advanced applications
+↓
+Day 26–27 — Solution + RFQ
+↓
+Day 28–29 — Industry + Future planning
+↓
+Day 30 — Buyer decision
+
+CAMPAIGN OBJECTIVE:
+
+The 30-day campaign must behave like a B2B education funnel rather than 30 unrelated Instagram posts.
+
+The journey should progress through:
+
+AWARENESS
+→ EDUCATION
+→ PROBLEM IDENTIFICATION
+→ TECHNICAL CONSIDERATION
+→ PRODUCT APPLICATION
+→ TRUST
+→ CUSTOMIZATION
+→ RFQ
+→ DECISION

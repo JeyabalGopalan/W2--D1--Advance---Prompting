@@ -1,0 +1,961 @@
+# RTCFR PROMPT — EC-BOX MONTHLY B2B POSTER CONTENT CALENDAR
+
+## R — ROLE
+
+Act as a **Senior B2B Content Strategist, Industrial Marketing Strategist, SEO Content Planner, and Electrical Enclosure Product Marketing Specialist** for **EC-BOX**, an electrical enclosure manufacturing/company brand serving industrial and B2B customers.
+
+Your responsibility is to create technically accurate, commercially useful, visually engaging, and lead-generation-focused social media poster content for EC-BOX.
+
+You should think like:
+
+- B2B Electrical Industry Marketing Strategist
+- Industrial Product Marketing Expert
+- Electrical Enclosure Specialist
+- Technical Content Writer
+- SEO Content Strategist
+- Social Media Content Planner
+- Graphic Design Content Planner
+- Lead Generation Strategist
+
+Primary objective:
+
+**Convert technical electrical-enclosure knowledge into simple, professional, visually attractive B2B poster concepts that can attract industrial buyers, OEMs, panel builders, electrical contractors, system integrators, engineers, distributors, and business owners.**
+
+---
+
+# T — TASK
+
+Create a **complete monthly content calendar for EC-BOX poster creation**.
+
+Website:
+
+https://www.ec-box.in
+
+Use the EC-BOX website and its **Blog section** as the primary reference for:
+
+- Products
+- Product categories
+- Technical specifications
+- Applications
+- Industries served
+- Electrical enclosure terminology
+- Features
+- Benefits
+- Technical parameters
+- Existing blog topics
+- Customer problems
+- Product applications
+- SEO topics
+
+Do not blindly copy existing website content.
+
+Instead:
+
+1. Analyze the website/blog topics.
+2. Identify important electrical enclosure subjects.
+3. Identify customer pain points.
+4. Identify educational opportunities.
+5. Identify product-promotion opportunities.
+6. Identify comparison topics.
+7. Identify technical topics.
+8. Identify application-based topics.
+9. Identify common mistakes.
+10. Convert these insights into a monthly poster calendar.
+
+The calendar should contain **one high-quality poster idea per day**.
+
+If the requested month has 30 days, create 30 ideas.
+
+If it has 31 days, create 31 ideas.
+
+If the month is not specified, create a **30-day calendar**.
+
+---
+
+# C — CONTEXT
+
+## Brand
+
+EC-BOX is an electrical enclosure-focused B2B company.
+
+Website:
+
+https://www.ec-box.in
+
+## Target Audience
+
+The content is NOT primarily for general consumers.
+
+Target:
+
+- Electrical panel manufacturers
+- Panel builders
+- OEM machine manufacturers
+- Electrical contractors
+- System integrators
+- Automation companies
+- Control panel manufacturers
+- Industrial electrical engineers
+- Maintenance engineers
+- Procurement managers
+- Plant managers
+- Electrical distributors
+- Industrial equipment manufacturers
+- Machine builders
+- Manufacturing companies
+- Factory owners
+- B2B electrical product buyers
+- Engineering companies
+
+## Audience Knowledge Level
+
+Assume the audience has **basic to advanced electrical/industrial knowledge**.
+
+Therefore:
+
+- Avoid childish explanations.
+- Avoid excessive technical jargon.
+- Explain technical concepts clearly.
+- Focus on practical industrial applications.
+- Highlight business impact wherever possible.
+- Use technical specifications when relevant.
+- Connect product features to customer problems.
+
+---
+
+# CONTENT OBJECTIVE
+
+Every poster should support at least one of these objectives:
+
+### 1. EDUCATE
+
+Teach the audience something useful.
+
+Examples:
+
+- What is IP65?
+- What is IK10?
+- Why enclosure thickness matters?
+- What is a PU gasket?
+- Why mounting plates matter?
+
+### 2. SOLVE A PROBLEM
+
+Address a real customer problem.
+
+Examples:
+
+- Enclosure overheating
+- Water/dust ingress
+- Corrosion
+- Poor cable management
+- Improper enclosure sizing
+- Difficult maintenance
+- Weak protection
+- Incorrect mounting
+- Poor component arrangement
+
+### 3. BUILD TRUST
+
+Show EC-BOX technical expertise.
+
+Examples:
+
+- Manufacturing quality
+- Material selection
+- Fabrication quality
+- Welding quality
+- Testing
+- Surface finishing
+- Design considerations
+
+### 4. PROMOTE PRODUCTS
+
+Connect educational topics with relevant EC-BOX products.
+
+### 5. GENERATE LEADS
+
+Encourage potential customers to:
+
+- Contact EC-BOX
+- Request a quotation
+- Discuss requirements
+- Ask for customization
+- Explore products
+- Visit the website
+
+### 6. BUILD BRAND AUTHORITY
+
+Position EC-BOX as a knowledgeable and reliable electrical enclosure partner.
+
+---
+
+# F — FORMAT / REQUIRED EXCEL STRUCTURE
+
+Create the output as an **Excel-ready monthly content calendar**.
+
+Each row should represent **one poster concept**.
+
+Use the following columns:
+
+| Column | Requirement |
+|---|---|
+| Day | Day number |
+| Date | Suggested publishing date |
+| Content Pillar | Educational / Technical / Product / Problem-Solution / Comparison / Application / Brand Trust / Lead Generation |
+| Topic | Main topic |
+| Heading | Main poster heading |
+| Hook | Attention-grabbing opening line |
+| Poster Objective | What the poster should achieve |
+| Target Audience | Specific B2B audience |
+| Poster Content | Main poster copy |
+| Key Points | Bullet points for the poster |
+| Icon / Visual Point | Icon suggestion for each key point |
+| Why It Matters | Customer/business importance |
+| Customer Pain Point | Problem being addressed |
+| Solution | Recommended solution |
+| Why Choose EC-BOX | Brand/product advantage |
+| Product Suggestion | Relevant EC-BOX product |
+| Product Feature | Relevant product feature |
+| Application | Where the product/topic is used |
+| CTA | Call-to-action |
+| Visual Direction | Suggested poster layout/design |
+| Image Suggestion | Product/image recommendation |
+| Technical Keywords | Relevant technical terms |
+| SEO Keywords | Relevant SEO keywords |
+| Hashtags | Relevant B2B hashtags |
+| Content Type | Static Poster / Carousel / Infographic / Comparison / Checklist |
+| Priority | High / Medium / Low |
+| Funnel Stage | Awareness / Consideration / Decision |
+| Blog Reference | Relevant EC-BOX blog/topic used as reference |
+
+---
+
+# POSTER HEADING RULES
+
+Create strong professional headings.
+
+The heading must:
+
+- Be short.
+- Be clear.
+- Communicate value.
+- Create curiosity.
+- Be suitable for a B2B poster.
+- Avoid clickbait.
+- Avoid generic marketing language.
+
+Examples:
+
+BAD:
+
+"Electrical Enclosures"
+
+BETTER:
+
+"Is Your Electrical Panel Properly Protected?"
+
+STRONG:
+
+"One Enclosure. Multiple Protection Challenges."
+
+---
+
+# HOOK RULES
+
+Every topic must have a strong hook.
+
+Hooks should use one of these approaches:
+
+### Problem Hook
+
+"Your panel may be protected — but is your enclosure?"
+
+### Question Hook
+
+"How much protection does your electrical panel really need?"
+
+### Data/Technical Hook
+
+"IP65 + IK10: Built for demanding industrial environments."
+
+### Mistake Hook
+
+"5 enclosure sizing mistakes that can affect your panel design."
+
+### Comparison Hook
+
+"Wall-Mounted vs Floor-Standing: Which Enclosure Fits Your Application?"
+
+### Business Hook
+
+"The right enclosure can reduce maintenance headaches."
+
+### Curiosity Hook
+
+"What happens when your enclosure is too small?"
+
+Do NOT use exaggerated or misleading claims.
+
+---
+
+# POSTER CONTENT RULES
+
+Poster content must be concise enough to fit into a professional social-media poster.
+
+Avoid writing a complete blog inside the poster.
+
+Use:
+
+- Short statements
+- Bullet points
+- Technical figures
+- Icons
+- Mini comparisons
+- Checklists
+- Short explanations
+
+Prefer:
+
+**5–7 key points maximum per poster.**
+
+Each bullet should ideally contain:
+
+**Icon + Point + Short explanation**
+
+Example:
+
+🛡️ IP Protection — Helps protect internal components from dust and water ingress.
+
+🏗️ CRCA Construction — Provides a strong enclosure structure for industrial applications.
+
+🔧 Mounting Plate — Enables organized installation of electrical components.
+
+---
+
+# ICON REQUIREMENTS
+
+For every major bullet point, recommend an appropriate icon.
+
+Examples:
+
+Protection → Shield icon
+
+IP Rating → Water Drop + Shield
+
+Dust Protection → Dust/Particles icon
+
+Strength → Hammer/Shield
+
+Material → Metal Sheet icon
+
+Mounting Plate → Grid/Panel icon
+
+Cable Entry → Cable icon
+
+Cooling → Fan icon
+
+Maintenance → Wrench icon
+
+Safety → Shield/Check icon
+
+Customization → Settings icon
+
+Industrial Application → Factory icon
+
+OEM → Gear/Factory icon
+
+Panel Builder → Electrical Panel icon
+
+Cost Saving → ₹ / Cost icon
+
+Quality → Check Badge icon
+
+Testing → Laboratory/Test icon
+
+Do not use random decorative icons.
+
+The icon must communicate the meaning of the point.
+
+---
+
+# PRODUCT SUGGESTION RULES
+
+Whenever possible, connect the poster topic to an appropriate EC-BOX product.
+
+Examples:
+
+Topic:
+
+"Why Mounting Plates Matter"
+
+Product Suggestion:
+
+Electrical Enclosure with Mounting Plate
+
+Topic:
+
+"Enclosure Planning for OEM Machine Builders"
+
+Product Suggestion:
+
+OEM Electrical Enclosure / Customized Enclosure
+
+Topic:
+
+"IP65 Protection"
+
+Product Suggestion:
+
+IP-rated Electrical Enclosure
+
+Topic:
+
+"PLC & VFD Panel Protection"
+
+Product Suggestion:
+
+Floor-standing / Wall-mounted Electrical Enclosure
+
+Only recommend products that are actually relevant to the topic and available or supported by information on the EC-BOX website.
+
+Do not invent EC-BOX product specifications.
+
+---
+
+# WHY CHOOSE EC-BOX
+
+For every poster, provide a specific reason why the customer should consider EC-BOX.
+
+Avoid generic statements such as:
+
+"High quality products."
+
+Instead use benefit-oriented reasoning such as:
+
+- Application-focused enclosure selection
+- Industrial-grade construction
+- Protection-focused design
+- Customizable enclosure solutions
+- Suitable for PLC/VFD applications
+- Practical component mounting
+- Improved component organization
+- Suitable for OEM requirements
+
+Only mention features or specifications that can be supported by the EC-BOX website or provided reference material.
+
+---
+
+# CUSTOMER PAIN-POINT FRAMEWORK
+
+For every poster ask:
+
+"What problem does this solve for a B2B electrical customer?"
+
+Examples:
+
+Problem:
+
+Electrical components exposed to dust and moisture.
+
+Solution:
+
+Select an enclosure with appropriate IP protection.
+
+Problem:
+
+Components are difficult to arrange.
+
+Solution:
+
+Use a suitable mounting plate and adequate enclosure dimensions.
+
+Problem:
+
+OEM machine enclosure does not fit the application.
+
+Solution:
+
+Plan enclosure size, component layout, cable entry and mounting requirements before fabrication.
+
+Problem:
+
+Poor enclosure construction affects durability.
+
+Solution:
+
+Use properly designed and manufactured industrial enclosures.
+
+---
+
+# CONTENT PILLARS
+
+Maintain a balanced monthly content mix.
+
+Target approximately:
+
+### 25% — Technical Education
+
+Examples:
+
+- IP rating
+- IK rating
+- Material
+- Thickness
+- Gasket
+- Mounting plate
+- Cable gland
+- Enclosure sizing
+
+### 20% — Problem/Solution
+
+Examples:
+
+- Overheating
+- Water ingress
+- Dust
+- Corrosion
+- Poor cable management
+- Incorrect sizing
+
+### 20% — Product/Application
+
+Examples:
+
+- PLC panels
+- VFD panels
+- OEM machines
+- Automation panels
+- Control panels
+
+### 15% — Comparison
+
+Examples:
+
+- Wall-mounted vs floor-standing
+- CRCA vs other materials
+- IP55 vs IP65
+- Standard vs customized enclosure
+
+### 10% — Brand Trust
+
+Examples:
+
+- Manufacturing quality
+- Welding
+- Surface finishing
+- Testing
+- Design process
+
+### 10% — Lead Generation
+
+Examples:
+
+- Request quotation
+- Custom enclosure requirements
+- Talk to EC-BOX
+- Choose the right enclosure
+
+---
+
+# TOPIC CATEGORIES TO EXPLORE
+
+Use the EC-BOX website/blog as the primary source, but explore topics such as:
+
+## Electrical Enclosure Fundamentals
+
+- What is an electrical enclosure?
+- Why electrical enclosures matter
+- Enclosure selection checklist
+- Enclosure sizing guide
+- Enclosure material selection
+- Enclosure thickness
+- IP rating
+- IK rating
+
+## Components & Accessories
+
+- Mounting plates
+- Gland plates
+- Cable glands
+- PU gasket
+- Door
+- Locking systems
+- Hinges
+- Mounting accessories
+
+## Applications
+
+- PLC panels
+- VFD panels
+- Automation panels
+- Control panels
+- OEM machines
+- Industrial machines
+- Manufacturing plants
+
+## Engineering
+
+- Component arrangement
+- Heat management
+- Cable entry
+- Maintenance access
+- Panel space planning
+- Wiring organization
+- Future expansion space
+
+## Common Mistakes
+
+- Wrong enclosure size
+- Wrong IP rating
+- Insufficient space
+- Poor component arrangement
+- Incorrect cable entry
+- Ignoring maintenance access
+- Ignoring environmental conditions
+
+## Comparison
+
+- Wall-mounted vs floor-standing
+- IP55 vs IP65
+- Standard vs customized
+- Different material choices
+- Different enclosure configurations
+
+---
+
+# VISUAL DIRECTION
+
+For every poster provide a simple visual direction for the designer.
+
+Examples:
+
+### Technical Poster
+
+Left:
+
+Technical illustration
+
+Right:
+
+5 key specifications
+
+Bottom:
+
+EC-BOX CTA
+
+### Comparison Poster
+
+Use:
+
+Left vs Right layout
+
+### Problem-Solution Poster
+
+Top:
+
+Problem
+
+Middle:
+
+Visual representation
+
+Bottom:
+
+EC-BOX solution
+
+### Product Poster
+
+Use:
+
+Large product image
+
+Supporting icons around the product
+
+Technical callouts
+
+CTA at bottom
+
+### Checklist Poster
+
+Use:
+
+Large checklist icon
+
+5–7 check points
+
+Product image
+
+CTA
+
+---
+
+# CTA RULES
+
+Do not use the same CTA for every poster.
+
+Rotate CTAs such as:
+
+- "Talk to EC-BOX for your enclosure requirement."
+- "Need the right enclosure for your application?"
+- "Explore EC-BOX enclosure solutions."
+- "Looking for a customized enclosure?"
+- "Discuss your panel requirements with EC-BOX."
+- "Choose protection that fits your application."
+- "Contact EC-BOX for your industrial enclosure needs."
+
+Keep CTAs B2B-focused and professional.
+
+---
+
+# SEO REQUIREMENTS
+
+For every poster provide:
+
+### Primary Keyword
+
+One main SEO keyword.
+
+### Secondary Keywords
+
+3–5 supporting keywords.
+
+### Technical Keywords
+
+3–5 technical terms.
+
+Examples:
+
+- electrical enclosure
+- electrical panel enclosure
+- industrial electrical enclosure
+- IP65 enclosure
+- electrical enclosure manufacturer
+- PLC panel enclosure
+- VFD panel enclosure
+- OEM enclosure
+- control panel enclosure
+
+Do not keyword-stuff.
+
+---
+
+# HASHTAG RULES
+
+Generate 5–10 relevant B2B hashtags.
+
+Example:
+
+#ElectricalEnclosure  
+#ElectricalPanel  
+#IndustrialAutomation  
+#ControlPanel  
+#PanelBuilder  
+#OEM  
+#IndustrialElectrical  
+#ElectricalEngineering  
+#Manufacturing  
+#ECBOX
+
+Avoid irrelevant viral hashtags.
+
+---
+
+# BLOG REFERENCE RULE
+
+Before generating the calendar:
+
+1. Review EC-BOX website content.
+2. Review the Blog section.
+3. Identify existing topics.
+4. Identify topics that can be converted into posters.
+5. Identify content gaps.
+6. Avoid repeating the same topic unless the angle is significantly different.
+
+For each poster, mention the relevant blog/reference topic.
+
+If a topic is not directly available in the blog section, label:
+
+"New Topic — Based on EC-BOX product/application context."
+
+Do not falsely claim that EC-BOX published a specific blog if it does not exist.
+
+---
+
+# QUALITY CONTROL
+
+Before finalizing the Excel calendar, perform a quality check.
+
+Check that:
+
+✓ Every day has a unique topic.
+
+✓ No repetitive topics.
+
+✓ Every topic has a strong heading.
+
+✓ Every topic has a hook.
+
+✓ Every poster contains useful information.
+
+✓ Every major point has a suitable icon.
+
+✓ Every topic has a customer pain point.
+
+✓ Every topic has a relevant solution.
+
+✓ Every topic has a product suggestion where applicable.
+
+✓ Every product suggestion is relevant.
+
+✓ No unsupported technical specifications are invented.
+
+✓ EC-BOX benefits are specific and credible.
+
+✓ Content is B2B-focused.
+
+✓ Content is suitable for LinkedIn and Instagram.
+
+✓ Content is concise enough for poster design.
+
+✓ Technical information is easy to understand.
+
+✓ CTAs are varied.
+
+✓ SEO keywords are relevant.
+
+✓ Blog references are accurate.
+
+✓ Content pillars are balanced.
+
+✓ The calendar has a logical flow throughout the month.
+
+---
+
+# FINAL OUTPUT
+
+Generate the final result as an **Excel spreadsheet**.
+
+The spreadsheet should contain these columns in this exact order:
+
+1. Day
+2. Date
+3. Content Pillar
+4. Topic
+5. Heading
+6. Hook
+7. Poster Objective
+8. Target Audience
+9. Poster Content
+10. Key Point 1
+11. Icon 1
+12. Key Point 2
+13. Icon 2
+14. Key Point 3
+15. Icon 3
+16. Key Point 4
+17. Icon 4
+18. Key Point 5
+19. Icon 5
+20. Why It Matters
+21. Customer Pain Point
+22. Solution
+23. Why Choose EC-BOX
+24. Product Suggestion
+25. Product Feature
+26. Application
+27. CTA
+28. Visual Direction
+29. Image Suggestion
+30. Technical Keywords
+31. Primary SEO Keyword
+32. Secondary SEO Keywords
+33. Hashtags
+34. Content Type
+35. Priority
+36. Funnel Stage
+37. Blog Reference
+
+---
+
+# EXCEL FORMATTING REQUIREMENTS
+
+Create a professional, easy-to-use spreadsheet.
+
+Use:
+
+- Freeze the header row.
+- Enable filters.
+- Wrap text in all content cells.
+- Adjust column widths appropriately.
+- Keep headings readable.
+- Use consistent formatting.
+- Keep each row independent.
+- Do not merge cells unnecessarily.
+- Make the spreadsheet easy for a content strategist and graphic designer to use.
+
+Create separate sheets if useful:
+
+### Sheet 1 — Monthly Content Calendar
+
+Complete 30/31-day calendar.
+
+### Sheet 2 — Content Pillars
+
+List the content pillars and their purpose.
+
+### Sheet 3 — Product Mapping
+
+Map EC-BOX products to suitable content topics/applications.
+
+### Sheet 4 — Icon & Visual Guide
+
+List recommended icons and visual meanings.
+
+### Sheet 5 — Keyword Bank
+
+Primary and secondary SEO keywords relevant to EC-BOX.
+
+---
+
+# IMPORTANT INSTRUCTIONS
+
+Do NOT:
+
+- Create generic social media content.
+- Create consumer-focused content.
+- Use exaggerated claims.
+- Invent EC-BOX products.
+- Invent technical specifications.
+- Repeat the same topic with minor wording changes.
+- Fill the calendar with only promotional posts.
+- Make every post "Buy Now".
+- Use excessive emojis.
+- Write long paragraphs for posters.
+- Copy blogs word-for-word.
+
+DO:
+
+- Think like a B2B industrial marketer.
+- Think from the customer's engineering problem.
+- Connect technical education to product relevance.
+- Make every poster visually actionable.
+- Use short, powerful headings.
+- Use practical technical information.
+- Recommend relevant icons.
+- Recommend appropriate EC-BOX products.
+- Include a clear reason to choose EC-BOX.
+- Create content that can generate enquiries.
+- Maintain a professional industrial visual tone.
+- Use the EC-BOX website/blog as the primary reference.
+- Clearly identify information that cannot be verified from the website.
+
+FINAL GOAL:
+
+The completed Excel calendar should be usable directly by:
+
+**Content Strategist → Copywriter → Graphic Designer → Social Media Manager → Sales Team**
+
+The goal is not simply to create 30 social media posts.
+
+The goal is to create **30 strategically planned B2B poster concepts that educate electrical-industry decision makers, demonstrate EC-BOX expertise, showcase relevant products, build trust, and ultimately generate qualified enquiries.**
